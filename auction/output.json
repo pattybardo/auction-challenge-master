@@ -1,0 +1,58 @@
+[
+  [{
+    "bidder": "AUCT",
+    "bid": 35,
+    "unit": "banner"
+  }, {
+    "bidder": "BIDD",
+    "bid": 60,
+    "unit": "sidebar"
+  }],
+  [{
+    "bidder": "AUCT",
+    "bid": 50,
+    "unit": "banner"
+  }, {
+    "bidder": "BIDD",
+    "bid": 70,
+    "unit": "footer"
+  }, {
+    "bidder": "AUCT",
+    "bid": 54,
+    "unit": "sidebar"
+  }],
+  [{
+    "bidder": "BIDD",
+    "bid": 100,
+    "unit": "banner"
+  }],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [{
+    "bidder": "AUCT",
+    "bid": 60,
+    "unit": "banner"
+  }],
+  [{
+    "bidder": "AUCT",
+    "bid": 60,
+    "unit": "banner"
+  }],
+  [{
+    "bidder": "AUCT",
+    "bid": 60,
+    "unit": "banner"
+  }, {
+    "bidder": "BIDD",
+    "bid": 200,
+    "unit": "undefined"
+  }],
+  [{
+    "bidder": "AUCT",
+    "bid": 60,
+    "unit": "banner"
+  }]
+]

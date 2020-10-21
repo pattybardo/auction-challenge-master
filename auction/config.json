@@ -3,17 +3,22 @@
         {
             "name": "houseofcheese.com",
             "bidders": ["AUCT", "BIDD"],
-            "floor": 32
+            "floor": 30
+        },
+        {
+            "name": "houseofchess.com",
+            "bidders": ["AUCT"],
+            "floor": 50
         }
     ],
     "bidders": [
         {
             "name": "AUCT",
-            "adjustment": -0.0625
+            "adjustment": -0.01
         },
         {
             "name": "BIDD",
-            "adjustment": 0
+            "adjustment": 0.01
         }
     ]
 }
