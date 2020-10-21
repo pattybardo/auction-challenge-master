@@ -1,0 +1,20 @@
+[
+    {
+        "site": "houseofcheese.com",
+        "units": ["banner"],
+        "bids": [
+
+            {
+                "bidder": "BIDD",
+                "unit": "banner",
+                "bid": 60
+            },
+            {
+                "bidder": "AUCT",
+                "unit": "banner",
+                "bid": 100
+            }
+
+        ]
+    }
+]

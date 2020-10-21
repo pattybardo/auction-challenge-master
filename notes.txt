@@ -1,6 +1,5 @@
-Important note, the assumption is that there is only one auction per website, so I can use the name of the sites in config as a key in a dictionary
+Important note, the assumption is that there is only one config per website, so I can use the name of the sites in config as a key in a dictionary
 
-The challenge states that the bidder must be known, but also that there shouldn't be any faulty data, so I just want to state that I haven't done any error checking for if the bidder exists or not, I believe just checking whether the bidder is one of the permitted bidders on the site is enough.
+The challenge states that the bidder must be known, but also that there shouldn't be any faulty data, so I just want to state that I haven't done any error checking for if the bidder exists or not, I assume just checking whether the bidder is one of the permitted bidders on the site is enough.
 
-Note to self:
-- Make sure that the edge cases are taken care of (if there are no valid bids, an empty array is printed)
+In case of tie after adjustment, bidder who made bid first will win the unit. (First bidder in the json file)
